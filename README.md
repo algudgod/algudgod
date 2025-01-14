@@ -1,9 +1,8 @@
-# Hi there 👋 My name is Mihyung
+# 안녕하세요 👋 기본기에 충실하고, 더 나은 코드를 만드는 개발자가 되고 싶은 김미형입니다.
 
-
-
-🌱 I’m currently learning and building my expertise in back-end development!
-⚡ Excited to collaborate and solve real-world problems through code!
+🌱 백엔드 개발자로 성장하기 위해 꾸준히 배우고 있습니다.
+⚡ 새로운 기술과 환경에 도전하며, 문제 해결 역량을 강화하고 있습니다.
+🤝 함께 고민하고 협력하며, 의미 있는 결과물을 만들어내는 개발자가 되고 싶습니다!
 
 ## Technical Skills and Tools
 <div>
@@ -34,4 +33,19 @@
 ---
 
 ## Statistics
-<div align="center"> <img height=180 src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&hide_border=true"/> <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true"/> </div>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
+
+## ✨ 주요 경험 및 강점
+🌍 **새로운 기술 탐구**  
+- 다양한 도구와 프레임워크를 배우고, 이를 프로젝트에 적극적으로 적용할 수 있습니다.
+  
+💻 **실무 프로젝트 경험**  
+- Spring Boot, Thymeleaf, Docker를 사용해 백엔드와 프론트엔드 환경 구현해본 경험이 있습니다.
+  
+🤝 **협업과 소통**  
+- Git과 Sourcetree를 통해 코드 관리 및 프로젝트 작업을 체계적으로 진행할 수 있습니다.
+  
+🎯 **코드 품질 향상**  
+- 효율적이고 유지보수 가능한 코드를 작성하기 위해 지속적으로 고민하며 개선점을 찾아갑니다.
