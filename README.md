@@ -1,13 +1,12 @@
 # 안녕하세요 👋 
-# 기본기에 충실하고, 더 나은 코드를 만드는 개발자가 되고 싶은 김미형입니다.
+# 작은 것에서부터 차근차근 성장해 나가는 개발자 김미형입니다.
 
 🌱 백엔드 개발자로 성장하기 위해 꾸준히 배우고 있습니다. <br>
 ⚡ 새로운 기술과 환경에 도전하며, 문제 해결 역량을 강화하고 있습니다. <br>
 🤝 함께 고민하고 협력하며, 의미 있는 결과물을 만들어내는 개발자가 되고 싶습니다!
 
-<br>
 
-## Technical Skills and Tools
+## 기술 스택과 도구
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
@@ -36,7 +35,7 @@
 
 <br>
 
-## Statistics
+## 통계
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
