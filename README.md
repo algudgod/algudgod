@@ -37,7 +37,7 @@
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 
-<br>
+<br><br><br><br><br><br><br><br>
 
 ## ✨ 주요 경험 및 강점
 🌍 **새로운 기술 탐구**  
