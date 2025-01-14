@@ -38,8 +38,9 @@
 
 ## 통계
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=333333&icon_color=000000&bg_color=FFFFFF&langs_count=8&layout=compact&border_color=000000&hide_border=false&size_weight=0.5&count_weight=0.5"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algudgod&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=333333&icon_color=000000&bg_color=FFFFFF&langs_count=8&layout=compact&border_color=CCCCCC&hide_border=false&size_weight=0.5&count_weight=0.5"/>
 </div>
+
 ---
 
 ## 주요 경험 및 강점
