@@ -50,6 +50,10 @@
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/sourcetree/0052CC" alt="Sourcetree" width="40" height="40"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS S3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/SLF4J_Logo.svg" alt="SLF4J" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logback_Logo.svg" alt="Logback" width="40" height="40"/>
+
 </div>
 
 ---
