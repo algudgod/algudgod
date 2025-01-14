@@ -7,7 +7,6 @@
 ## Technical Skills and Tools
 <div width="100%">
 <!-- Back-end -->
-  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Framework" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/hibernate/59666C" alt="Hibernate" width="40" height="40"/>
