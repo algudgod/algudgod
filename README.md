@@ -26,7 +26,6 @@
   <!-- IDE -->
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" alt="Eclipse" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="40" height="40"/>
 
   <!-- Build & Deploy -->
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" width="40" height="40"/>
@@ -34,25 +33,12 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins" width="40" height="40"/>
 
-  <!-- Logging & Debugging -->
-  <img src="https://cdn.simpleicons.org/slf4j/FF9900" alt="SLF4J" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/logback/000000" alt="Logback" width="40" height="40"/>
-
-  <!-- Cloud -->
-  <img src="https://cdn.simpleicons.org/aws/F90" alt="AWS S3" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/naver/03C75A" alt="Naver Cloud Platform" width="40" height="40"/>
-
   <!-- Testing -->
-  <img src="https://cdn.simpleicons.org/junit/25A162" alt="JUnit" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40"/>
 
   <!-- Version Control -->
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/sourcetree/0052CC" alt="Sourcetree" width="40" height="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS S3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/SLF4J_Logo.svg" alt="SLF4J" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logback_Logo.svg" alt="Logback" width="40" height="40"/>
 
 </div>
 
