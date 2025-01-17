@@ -40,14 +40,6 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=round-square&logo=apache-maven&logoColor=white"/>
 </div>
 
-
----
-
-## 통계
-<div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algudgod&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=333333&icon_color=000000&bg_color=FFFFFF&langs_count=8&layout=compact&border_color=CCCCCC&hide_border=false&size_weight=0.5&count_weight=0.5"/>
-</div>
-
 ---
 
 ## 주요 경험 및 강점
@@ -63,3 +55,11 @@
 
 ### 🌍 **새로운 기술 탐구**
 - 다양한 도구와 프레임워크를 배우는 것을 좋아하고, 이를 프로젝트에 적극적으로 적용할 수 있습니다.
+
+
+ ## 통계
+<div align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=algudgod&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=333333&icon_color=000000&bg_color=FFFFFF&langs_count=8&layout=compact&border_color=CCCCCC&hide_border=false&size_weight=0.5&count_weight=0.5"/>
+</div>
+
+---
