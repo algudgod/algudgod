@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=round-square&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSTL-005F0F?style=round-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=round-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
@@ -34,7 +35,6 @@
   <img src="https://img.shields.io/badge/Naver SMTP-03C75A?style=round-square&logo=naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSTL-005F0F?style=round-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lombok-CA4245?style=round-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=round-square&logo=apache-maven&logoColor=white"/>
